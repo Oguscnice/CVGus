@@ -9,10 +9,10 @@
   * _2010_ – DUT QLIO (Qualité, Logistique Industrielle et Organisation)
   * _2007_ – Bac ES, Option Mathématiques (Economique et Social)
 ## * Expérience professionnelle
-    >Avril 2021 à aujourd’hui : Adaptation conducteur TGV Axe Sud-Est, SNCF – Lyon
-    >Mai 2017 à Avril 2021 : Gestionnaire opérationnel de Flote, engins Electrique / Thermique / Corail, SNCF – Lyon
-    >Juin 2014 à Mai 2017 : Gestionnaire de Moyens, engins Electrique / Thermique, SNCF – Lyon
-    >Fév 2013 à Juin 2014 : Gestionnaire de Moyens, engins Thermique, SNCF – Lyon
+  > Avril 2021 à aujourd’hui : Adaptation conducteur TGV Axe Sud-Est, SNCF – Lyon
+  >Mai 2017 à Avril 2021 : Gestionnaire opérationnel de Flote, engins Electrique / Thermique / Corail, SNCF – Lyon
+  >Juin 2014 à Mai 2017 : Gestionnaire de Moyens, engins Electrique / Thermique, SNCF – Lyon
+  >Fév 2013 à Juin 2014 : Gestionnaire de Moyens, engins Thermique, SNCF – Lyon
 
 ## * Hobbies :
   Escape Games Jeux vidéo
