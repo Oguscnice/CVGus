@@ -4,11 +4,11 @@
   
   Après plusieurs postes sur le même thème de Gestion (Gestionnaire de Moyen Matériel Thermique, Electrique, avec un touche de gestion des conducteurs, puis Gestion opérationnel de Flotte -branche STF matériel- et Adaptateur ADC TGV SE), l'envie de changement de domaine a commencé à se faire ressentir. Cette offre de formation/poste sur Viseo m'est apparue comme une évidence de part mon intérêt dans ce domaine et durant mes loisirs. La description du poste et les confirmations reçues par 2 amis développeurs m'ont poussé à postuler. Le caractère varié et évolutif du métier de développeur, à travers de nouveaux projets permanents, me réjouit d'avance et me motive particulièrement. A travers l’installation de microprocesseur, le développement de macro et la création de plateforme ludique (escape-games, jeux de société et jeux vidéos), j'ai développé un esprit créatif, novateur souvent orienté vers l'univers numérique...
   Actuellement en train de suivre des **formations** gratuites sur **[OpenClassRooms](https://openclassrooms.com/) et [Codingame](https://www.codingame.com/)**, je conforte ma passion dans le domaine numérique et j'acquière des bases universelles de développement qui me permettront, je l'espère, d'intégrer la formation avec des prérequis supplémentaires. Ayant conscience de l'investissement demandé par cette formation intensive, l'horizon d'un travail épanouissant est une raison suffisante pour m'impliquer entièrement dans cette reconversion. 
-  * Formation
+##  * Formation
     * _2011_ – License GPI MLE (Gestion de Production Industrielle, Management de la Logistique d’Entreprise, spécialité Systèmes d’informations)
     * _2010_ – DUT QLIO (Qualité, Logistique Industrielle et Organisation)
     * _2007_ – Bac ES, Option Mathématiques (Economique et Social)
-  * Expérience professionnelle
+##  * Expérience professionnelle
     >Avril 2021 à aujourd’hui : Adaptation conducteur TGV Axe Sud-Est, SNCF – Lyon
     >Mai 2017 à Avril 2021 : Gestionnaire opérationnel de Flote, engins Electrique / Thermique / Corail, SNCF – Lyon
 
@@ -16,5 +16,5 @@
 
     >Fév 2013 à Juin 2014 : Gestionnaire de Moyens, engins Thermique, SNCF – Lyon
 
-  * Hobbies :
+##  * Hobbies :
   Escape Games Jeux vidéo
