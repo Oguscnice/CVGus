@@ -1,5 +1,5 @@
 <img src="Capture.JPG" alt="Photo de moi" />
-    #* Présentation Issu d’une _licence Logistique/Qualité à spécialité Systèmes
+#* Présentation Issu d’une _licence Logistique/Qualité à spécialité Systèmes
     d'informations_, j’ai eu le privilège d’acquérir de **premières
     connaissances universitaires en informatique**. Ce qui fut une des missions
     principales de mon premier poste à Veolia Propreté où j’ai eu la chance de
@@ -27,14 +27,16 @@
     me permettront, je l'espère, d'intégrer la formation avec des prérequis
     supplémentaires. Ayant conscience de l'investissement demandé par cette
     formation intensive, l'horizon d'un travail épanouissant est une raison
-    suffisante pour m'impliquer entièrement dans cette reconversion. * Formation
+    suffisante pour m'impliquer entièrement dans cette reconversion. 
+    
+  * Formation
     *_2011_ – License GPI MLE (Gestion de Production Industrielle, Management de
-    la Logistique d’Entreprise, spécialité Systèmes d’informations) *_2010_ –
-    DUT QLIO (Qualité, Logistique Industrielle et Organisation) *_2007_ – Bac
-    ES, Option Mathématiques (Economique et Social) * Expérience professionnelle
-    >Avril 2021 à aujourd’hui : Adaptation conducteur TGV Axe Sud-Est, SNCF –
-    Lyon >Mai 2017 à Avril 2021 : Gestionnaire opérationnel de Flote, engins
-    Electrique / Thermique / Corail, SNCF – Lyon >Juin 2014 à Mai 2017 :
-    Gestionnaire de Moyens, engins Electrique / Thermique, SNCF – Lyon >Fév 2013
-    à Juin 2014 : Gestionnaire de Moyens, engins Thermique, SNCF – Lyon* *
-    Hobbies : Escape Games Jeux vidéo
+    la Logistique d’Entreprise, spécialité Systèmes d’informations)
+    *_2010_ – DUT QLIO (Qualité, Logistique Industrielle et Organisation)
+    *_2007_ – Bac ES, Option Mathématiques (Economique et Social)
+  * Expérience professionnelle
+    >Avril 2021 à aujourd’hui : Adaptation conducteur TGV Axe Sud-Est, SNCF – Lyon
+    >Mai 2017 à Avril 2021 : Gestionnaire opérationnel de Flote, engins Electrique / Thermique / Corail, SNCF – Lyon
+    >Juin 2014 à Mai 2017 : Gestionnaire de Moyens, engins Electrique / Thermique, SNCF – Lyon
+    >Fév 2013 à Juin 2014 : Gestionnaire de Moyens, engins Thermique, SNCF – Lyon*
+  * Hobbies : Escape Games Jeux vidéo
